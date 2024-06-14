@@ -13,3 +13,7 @@ Three sensors used:
 Internet of Things(IoT):
 One of the IoT platform - ThingSpeak has been used for observe the data for this assignment.
 Link(Public): https://thingspeak.com/channels/2403015 
+
+Caution:
+1. For RingBuffer.h and ESPDataLogger.h (headers file), pls put inside **Inc** part.
+2. For c files (UARTRingBuffer.c, ESPDataLogger.c and Embedded_Assignment.c(main.c) ) file, pls put in **Core** part.
