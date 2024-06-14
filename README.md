@@ -18,3 +18,9 @@ Caution:
 ***Pls put all file into Core section***
 1. For RingBuffer.h and ESPDataLogger.h (headers file), pls put inside **Inc** part.
 2. For c files (UARTRingBuffer.c, ESPDataLogger.c and Embedded_Assignment.c(main.c) ) file, pls put in **Src** part.
+
+The configuration for STM32F411RE:
+
+
+![image](https://github.com/CHAN0918/Embedded-System-Design/assets/128761229/0f004e15-6eea-4f2c-906f-1904c46d2af6)
+
