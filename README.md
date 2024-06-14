@@ -1,6 +1,6 @@
 # Embedded-System-Design
 
-#For Emmbedded_Assignment.c# file, it is the main.c file which is included in STM32CubeIde.
+# For Embedded_Assignment.c file, it is the main.c file which is included in STM32CubeIde.
 
 This respiratory is about the assignment.
 This assignment is about the smart monitoring system that determine whether the day is suitable to drying the clothes.
