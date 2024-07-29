@@ -24,3 +24,5 @@ The configuration for STM32F411RE:
 
 ![image](https://github.com/CHAN0918/Embedded-System-Design/assets/128761229/0f004e15-6eea-4f2c-906f-1904c46d2af6)
 
+Please remove // for the headers (Eg: //include<stdio.h>) for allow coding to run.
+
